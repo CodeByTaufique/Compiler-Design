@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+ // This is Single Line COmment
+
+
+int main() {
+
+   /* This is Multi Line Comment */
+   int a = 10;
+   printf("%d\n",a);
+   return 0;
+
+}
