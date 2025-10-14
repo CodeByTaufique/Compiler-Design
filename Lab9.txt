@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main() {
+    char c = 'A';
+    char d = 'B';
+    char e = 'Z';
+    char massage[] = "Hello";
+    char greeting[] = "World";
+    char empty[] = ";
+    char parse[] = "Good Morning";
+    char note[] = "Have a nice day";
+    printf("Done!"\n);
+    return 0;
+}
